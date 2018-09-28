@@ -1,4 +1,4 @@
-from FonctionCalendrier import *  # Import de toutes les fonctions
+from FonctionCalendrier import *  # Import de toutes les fonctions de FonctionCalendrier
 verification = False
 
 while verification == False :
